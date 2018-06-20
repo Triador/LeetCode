@@ -1,4 +1,6 @@
-package Easy;
+package easy;
+
+import model.TreeNode;
 
 public class MergeTwoBinaryTrees {
 

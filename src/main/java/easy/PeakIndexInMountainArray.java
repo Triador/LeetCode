@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class PeakIndexInMountainArray {
     public int peakIndexInMountainArray(int[] A) {

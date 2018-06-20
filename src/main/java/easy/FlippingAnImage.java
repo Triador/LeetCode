@@ -1,4 +1,4 @@
-package Easy;
+package easy;
 
 public class FlippingAnImage {
     public int[][] flipAndInvertImage(int[][] A) {
