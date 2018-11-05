@@ -8,7 +8,8 @@ public class TreeNode {
         this.val = val;
     }
 
-    public boolean compare(TreeNode t1, TreeNode t2) {
+    //TODO this method is not working because of recursion
+    public static boolean compare(TreeNode t1, TreeNode t2) {
         if (t1 != null && t2 != null) {
             if (t1.val != t2.val) {
                 return false;
